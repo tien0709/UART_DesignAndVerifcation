@@ -1,0 +1,1 @@
+typedef virtual uart_if uart_vif;
