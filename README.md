@@ -1,7 +1,7 @@
 ## 1. Design Architecture
 
-![Design](design architecture.png)
+![Design](design_architecture.png)
 
 ## 2. Verification Architecture
 
-![Verification](verification architecture.png)
+![Verification](verification_architecture.png)
